@@ -1,0 +1,25 @@
+{
+  "name": "epicon-core",
+  "version": "0.0.1",
+  "description": "core",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdruzhchenko/epicon-core.git"
+  },
+  "keywords": [
+    "core"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdruzhchenko/epicon-core/issues"
+  },
+  "homepage": "https://github.com/sdruzhchenko/epicon-core#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
